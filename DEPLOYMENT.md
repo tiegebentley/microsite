@@ -19,11 +19,17 @@
    - Set as Public or Private
    - Don't initialize with README (we already have files)
 
-2. Connect local repository to GitHub:
+2. Repository already connected to:
+```bash
+https://github.com/tiegebentley/microsite.git
+```
+
+Your local changes can be pushed with:
 ```bash
 cd /root/kirby-site
-git remote add origin https://github.com/YOUR_USERNAME/kirby-site.git
-git push -u origin main
+git add .
+git commit -m "Your commit message"
+git push origin main
 ```
 
 ## GoDaddy Deployment Options
@@ -66,7 +72,7 @@ ssh YOUR_USERNAME@YOUR_DOMAIN.com
 3. **Clone Repository on Server:**
 ```bash
 cd ~/public_html  # or your web root
-git clone https://github.com/YOUR_USERNAME/kirby-site.git .
+git clone https://github.com/tiegebentley/microsite.git .
 ```
 
 4. **Install Dependencies:**

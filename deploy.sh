@@ -8,7 +8,7 @@
 GODADDY_USER="YOUR_GODADDY_USERNAME"
 GODADDY_HOST="YOUR_DOMAIN.com"
 GODADDY_PATH="~/public_html"  # Adjust if your web root is different
-GITHUB_REPO="https://github.com/YOUR_USERNAME/kirby-site.git"
+GITHUB_REPO="https://github.com/tiegebentley/microsite.git"
 
 # Colors for output
 RED='\033[0;31m'
