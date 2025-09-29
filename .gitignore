@@ -1,0 +1,51 @@
+# Kirby CMS gitignore
+
+# Content
+/content/*
+!/content/home
+!/content/error
+!/content/.gitkeep
+
+# Media
+/media/*
+!/media/.gitkeep
+
+# Storage
+/storage/accounts/*
+!/storage/accounts/.gitkeep
+/storage/cache/*
+!/storage/cache/.gitkeep
+/storage/sessions/*
+!/storage/sessions/.gitkeep
+
+# Config (keep only samples/defaults)
+/site/config/config.php
+/site/config/.license
+
+# System files
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE
+.idea
+.vscode
+*.sublime-project
+*.sublime-workspace
+
+# Composer
+/vendor/
+
+# Environment files
+.env
+.env.local
+
+# Kirby Panel
+/site/accounts/*
+!/site/accounts/.gitkeep
+
+# Custom
+*.cache
+*.tmp
+.sass-cache/
+node_modules/

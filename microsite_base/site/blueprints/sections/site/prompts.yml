@@ -1,0 +1,154 @@
+type: fields
+fields:
+  promptHeadline:
+    label: Prompts
+    type: headline
+  promptMaster:
+    label: Master Prompt
+    extends: fields/prompt
+  promptKnowledge:
+    label: Page Prompt
+    extends: fields/prompt
+    
+  lineA:
+    type: line
+
+  fieldPromptsHeadline:
+    label: Field Prompts & Formats - General
+    type: headline
+  promptLeader:
+    label: Leader
+    extends: fields/prompt
+    width: 1/2
+  promptIntro:
+    label: Intro
+    extends: fields/prompt
+    width: 1/2
+  promptText:
+    label: Main text
+    extends: fields/prompt
+    width: 1/2
+  promptSummary:
+    label: Summary
+    extends: fields/prompt
+    width: 1/2
+  promptMission:
+    extends: fields/prompt
+    width: 1/2
+  promptTagline:
+    extends: fields/prompt
+    width: 1/2
+  promptContact:
+    extends: fields/prompt
+    width: 1/2
+  promptProfile:
+    extends: fields/prompt
+    width: 1/2
+
+  lineB:
+    type: line
+
+  fieldPromptsServiceHeadline:
+    label: Field Prompts & Formats - Service page
+    type: headline
+  promptServicepage:
+    label: Service Page
+    extends: fields/prompt
+    width: 1/2
+  promptServiceLeader:
+    label: Service Leader
+    extends: fields/prompt
+    width: 1/2
+  promptServiceIntro:
+    label: Service Intro
+    extends: fields/prompt
+    width: 1/2
+  promptServiceDescription:
+    label: Service descriptions
+    extends: fields/prompt
+    width: 1/2
+
+  lineC:
+    type: line
+
+  fieldPromptsHomeHeadline:
+    label: Field Prompts & Formats - Homepage
+    type: headline
+  promptHomepage:
+    label: Home Page
+    extends: fields/prompt
+    width: 1/2
+
+  lineD:
+    type: line
+
+  fieldPromptsServicesHeadline:
+    label: Field Prompts & Formats - Services page
+    type: headline
+  promptServicespage:
+    label: Services Page
+    extends: fields/prompt
+    width: 1/2
+  # promptServicesLeader:
+  #   label: Services Leader
+  #   extends: fields/prompt
+  #   width: 1/2
+  promptServicesIntro:
+    label: Services Intro
+    extends: fields/prompt
+    width: 1/2
+
+
+  lineE:
+    type: line
+
+  fieldPromptsAboutHeadline:
+    label: Field Prompts & Formats - About Us
+    type: headline
+  promptAboutpage:
+    label: About Page
+    extends: fields/prompt
+    width: 1/2
+
+
+  lineF:
+    type: line
+
+  fieldPromptsLocationsHeadline:
+    label: Field Prompts & Formats - Locations
+    type: headline
+  promptServiceAreaspage:
+    label: Service Areas Page
+    extends: fields/prompt
+    width: 1/2
+  promptServiceAreasText:
+    label: Service Areas Text
+    extends: fields/prompt
+    width: 1/2
+  promptLocationpage:
+    label: Location Page
+    extends: fields/prompt
+    width: 1/2
+  promptLocationText:
+    label: Location Text
+    extends: fields/prompt
+    width: 1/2
+
+  lineG:
+    type: line
+
+  fieldPromptsFaqHeadline:
+    label: Field Prompts & Formats - Service pages
+    type: headline
+  promptEstimatepage:
+    label: Estimate Page
+    extends: fields/prompt
+    width: 1/2
+  promptContactpage:
+    label: Estimate Page
+    extends: fields/prompt
+    width: 1/2
+  promptFaqpage:
+    label: FAQ Page
+    extends: fields/prompt
+    width: 1/2

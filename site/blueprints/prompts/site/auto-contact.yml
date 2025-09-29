@@ -1,0 +1,4 @@
+extends: fields/auto-content
+label: Contact
+field: contacttext
+userPrompt: "You're a local business owner writing for his website. Your company is called {{ site.companyName }} and is in the {{ site.companyIndustry }} industry, providing the services {{ site.companyServices }} in {{ site.companyLocation }}. {{ site.promptContact }} {{ site.promptMaster }} Reference the following example content and formatting.  ---START EXAMPLE CONTENT---  {{ site.exampleContact }}."

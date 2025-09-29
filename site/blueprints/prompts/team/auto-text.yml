@@ -1,0 +1,2 @@
+extends: fields/auto-text
+userPrompt: "You're a local business owner writing for his website. Your company is called {{ site.companyName }} and is in the {{ site.companyIndustry }} industry, providing the services {{ site.companyServices }}. Write the main copy for this {{ page.template }} page called {{ page.title }}. Adhere to the following company details: {{ site.backstory }} {{ site.promptText }} {{ site.promptMaster }} {{ site.promptKnowledge }} Reference the following example content and formatting.  ---START EXAMPLE CONTENT---  {{ site.exampleTeampage }}."

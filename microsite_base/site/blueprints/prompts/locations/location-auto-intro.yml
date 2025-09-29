@@ -1,0 +1,2 @@
+extends: fields/auto-intro
+userPrompt: "You're a local business owner writing for his website. Your company is called {{ site.companyName }} and is in the {{ site.companyIndustry }} industry, providing the services {{ site.companyServices }}. Write the intro copy for this location page. {{ site.promptLocationIntro }} {{ site.promptMaster }} Reference the following example content as an example of the writing style.  ---START EXAMPLE CONTENT---  {{ site.exampleLocationIntro }}."

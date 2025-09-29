@@ -1,0 +1,4 @@
+extends: fields/auto-content
+label: Description text
+field: description
+userPrompt: "You're a local business owner writing for his website. Your company is called {{ site.companyName }} and is in the {{ site.companyIndustry }} industry, providing the services {{ site.companyServices }}. Write the service description copy for this {{ page.template }} page called {{ page.title }}. {{ promptServicepage }} {{ site.promptServiceDescription }} {{ site.promptMaster }} Reference the following example content and formatting.  ---START EXAMPLE CONTENT---  {{ site.exampleServiceDescription }}."

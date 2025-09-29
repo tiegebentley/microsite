@@ -1,0 +1,7 @@
+type: fields
+fields:
+  formatHeadline:
+    label: Formatting rules
+    type: headline
+  formatLeader:
+    extends: fields/prompt

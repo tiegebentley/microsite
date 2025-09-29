@@ -1,0 +1,4 @@
+extends: fields/auto-content
+label: Leader
+field: locationsleader
+userPrompt: "You're a local business owner writing for his website. Your company is called {{ site.companyName }} and is in the {{ site.companyIndustry }} industry, providing the services {{ site.companyServices }} in {{ site.companyArea }}. Write the leader copy for this {{ page.template }} page called {{ page.title }}. {{ site.promptServiceAreaspage }} {{ site.promptMaster }}. Follow the following formatting rules and reference the example copy for the writing style. ---START FORMATTING RULES--- {{ site.promptLeader }} ---START EXAMPLE CONTENT---  {{ site.exampleLeader }}."

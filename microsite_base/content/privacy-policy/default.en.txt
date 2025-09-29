@@ -1,0 +1,271 @@
+Title: Privacy Policy
+
+----
+
+Showleader: false
+
+----
+
+Coverimage: 
+
+----
+
+Leader: 
+
+----
+
+Intro: 
+
+----
+
+Text:
+
+# Privacy & Data Use Policy
+
+This Application gathers certain Personal Data from Users.  
+> **Data Controller**: {{ siteName }}  
+> **Contact email**: {{ emailPrivacy }}  
+
+## Data We Collect
+We may collect:  
+- Cookies  
+- Usage Data (e.g., device info, IP address, browsing activity)  
+
+Some Data is provided by Users directly, while other Data is collected automatically.  
+
+## How Data Is Processed
+- Data is safeguarded with appropriate technical and organizational measures.  
+- Processing is carried out using secure systems and may involve staff or external providers (IT, hosting, communications).  
+- Legal bases include user consent, contract obligations, legal compliance, public interest, or legitimate business interests.  
+
+## Storage & Retention
+Data is stored only as long as necessary for the purposes collected:  
+- Until contracts are fulfilled.  
+- Until legitimate interests are achieved.  
+- Until consent is withdrawn (where applicable).  
+- Or as required by law.  
+
+When the retention period ends, Data is securely deleted.  
+
+## Purpose of Collection
+We process Data to:  
+- Deliver services  
+- Provide analytics  
+- Enable interaction with social networks  
+- Operate affiliate programs (e.g., Amazon Associates)  
+
+## User Rights
+Users may:  
+- Withdraw consent  
+- Object to processing  
+- Request access or corrections  
+- Ask for deletion of Data  
+- Restrict or limit processing  
+- Request portability of Data  
+- File complaints with data protection authorities  
+
+## Additional Information
+- Data may be used for legal obligations.  
+- Logs may be collected for technical maintenance.  
+- This site does not honor “Do Not Track” signals.  
+- Updates to this policy may be made at any time, with notice provided on this page.
+
+----
+
+Exampletext: 
+
+----
+
+Metatitle: 
+
+----
+
+Metatemplate: 
+
+----
+
+Usetitletemplate: true
+
+----
+
+Metadescription: 
+
+----
+
+Ogtemplate: 
+
+----
+
+Useogtemplate: true
+
+----
+
+Ogdescription: 
+
+----
+
+Ogimage: 
+
+----
+
+Twittercardtype: 
+
+----
+
+Twitterauthor: 
+
+----
+
+Robotsindex: default
+
+----
+
+Robotsfollow: default
+
+----
+
+Robotsarchive: default
+
+----
+
+Robotsimageindex: default
+
+----
+
+Robotssnippet: default
+
+----
+
+Metainherit: 
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Meta-author: 
+
+----
+
+Meta-image: 
+
+----
+
+Meta-phone-number: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Og-site-name: 
+
+----
+
+Og-url: 
+
+----
+
+Og-audio: 
+
+----
+
+Og-video: 
+
+----
+
+Og-determiner: 
+
+----
+
+Og-type: 
+
+----
+
+Og-type-article-published-time: 
+
+----
+
+Og-type-article-modified-time: 
+
+----
+
+Og-type-article-expiration-time: 
+
+----
+
+Og-type-article-author: 
+
+----
+
+Og-type-article-section: 
+
+----
+
+Og-type-article-tag: 
+
+----
+
+Twitter-title: 
+
+----
+
+Twitter-description: 
+
+----
+
+Twitter-image: 
+
+----
+
+Twitter-card-type: 
+
+----
+
+Twitter-site: 
+
+----
+
+Twitter-creator: 
+
+----
+
+Robots-noindex: 
+
+----
+
+Robots-nofollow: 
+
+----
+
+Robots-noarchive: 
+
+----
+
+Robots-noimageindex: 
+
+----
+
+Robots-nosnippet: 
+
+----
+
+Uuid: i43AK5fUwxAmPLvu
