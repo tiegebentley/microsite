@@ -10,7 +10,7 @@
 	<meta property="og:url" content="<?= $page->url() ?>">
 	<meta http-equiv="Content-Security-Policy" content="block-all-mixed-content" />
 
-	<?= Bnomei\Fingerprint::css('assets/css/index.css') ?>
+	<link rel="stylesheet" href="<?= url('assets/css/index.css') ?>">
 	<?php snippet('tag/brand-colors') ?>
 	<?php snippet('tag/custom-css') ?>
 

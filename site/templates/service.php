@@ -2,7 +2,7 @@
 <html lang="<?= $site->lang() ?>">
 <head>
   <?php snippet('layouts/head') ?>
-  <?= Bnomei\Fingerprint::css('assets/css/layouts/service.css') ?>
+  <link rel="stylesheet" href="<?= url('assets/css/layouts/service.css') ?>">
 </head>
 <body>
 
